@@ -17,3 +17,8 @@ def mul(a,b):
 
 print('multiplication function')
 
+def div(a,b):
+    e=b/a
+    return b
+
+print('added division function')
